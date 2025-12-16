@@ -10,86 +10,100 @@
   <!-- Hero Section -->
   <section class="pt-32 pb-16 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto text-center">
     <div class="mb-6">
-      <span class="text-xs font-bold tracking-widest text-gray-500 uppercase">The #1 Creator Marketing Platform</span>
+      <span class="text-xs font-bold tracking-widest text-gray-500 uppercase">Team Recognition Made Simple</span>
     </div>
     <h1 class="text-5xl md:text-7xl font-serif mb-6 leading-tight">
-      Where B2B brands scale <br class="hidden md:block" /> influencer marketing
+      Turn gratitude into action <br class="hidden md:block" /> with digital thank-you cards
     </h1>
     <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-10 leading-relaxed">
-      The fastest and easiest way to do influencer marketing at scale.
-      Find the right creators on all platforms, book, collaborate, and pay – all in one place.
+      Kudobox helps remote teams recognize contributions instantly with shareable digital cards. 
+      Make appreciation visual, meaningful, and effortless.
     </p>
     <div class="flex flex-col sm:flex-row items-center justify-center gap-4 mb-20">
-      <Button href="#" type="primary">Get access &rarr;</Button>
-      <Button href="#" type="outline">Talk to us</Button>
+      <Button href="#" type="primary">Start Free Trial &rarr;</Button>
+      <Button href="#" type="outline">See Demo</Button>
     </div>
 
     <!-- Hero Image Placeholder -->
     <div class="relative w-full max-w-5xl mx-auto rounded-2xl overflow-hidden shadow-2xl border border-gray-200 bg-white aspect-[16/9] mb-16 group">
-      <!-- Mock UI -->
+      <!-- Mock UI - Kudobox Interface -->
       <div class="absolute inset-0 bg-gray-50 p-4">
         <div class="h-full w-full bg-white rounded-xl border border-gray-200 shadow-sm p-6 flex flex-col">
             <!-- Header of Mock UI -->
             <div class="flex items-center justify-between mb-6 border-b border-gray-100 pb-4">
                 <div class="flex items-center gap-3">
-                    <div class="w-8 h-8 rounded-full bg-orange-100"></div>
-                    <div class="h-4 w-32 bg-gray-100 rounded"></div>
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="text-orange-brand">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M6.99251 12.196C6.85314 12.5757 6.62925 12.9208 6.33682 13.2067H6.33835C6.00191 13.5351 5.58566 13.7756 5.12816 13.9059C4.67065 14.0362 4.18671 14.0522 3.72118 13.9523C3.25564 13.8524 2.82357 13.64 2.46501 13.3345C2.10645 13.0291 1.83299 12.6406 1.66998 12.2051C1.50697 11.7696 1.45969 11.3012 1.5325 10.8432C1.60532 10.3852 1.79587 9.95244 2.08653 9.58516C2.37718 9.21781 2.75852 8.9277 3.1952 8.74177C3.63188 8.55585 4.10979 8.48002 4.58462 8.52142L4.57074 8.50792C5.0567 8.54782 5.54575 8.48407 6.00378 8.32124C6.4618 8.15846 6.87776 7.90043 7.2226 7.56521C7.56746 7.22998 7.83285 6.82564 8.00036 6.38041C8.16786 5.93517 8.23344 5.45976 8.1924 4.98737L8.20628 5.00087C8.15181 4.43594 8.27796 3.86844 8.56753 3.37575C8.85701 2.88307 9.29579 2.48919 9.82407 2.24782C10.3523 2.00645 10.9443 1.92933 11.5192 2.02701C12.0942 2.12467 12.6243 2.39237 13.037 2.79358C13.4497 3.19479 13.7251 3.70999 13.8256 4.26892C13.926 4.82785 13.8467 5.4033 13.5984 5.9168C13.3501 6.4303 12.9449 6.85685 12.4381 7.13828C11.9313 7.41971 11.3474 7.54233 10.7663 7.4894L10.781 7.5029C10.2949 7.46279 9.80563 7.52632 9.34741 7.68904C8.88919 7.85176 8.47309 8.10975 8.12805 8.44499C7.78301 8.78025 7.51742 9.18466 7.34983 9.63001C7.18224 10.0754 7.11669 10.551 7.15774 11.0235L7.14309 11.01C7.1833 11.4112 7.13189 11.8162 6.99251 12.196Z" fill="currentColor"/>
+                    </svg>
+                    <div class="h-4 w-24 bg-gray-800 rounded font-bold text-xs flex items-center px-2 text-white">Kudobox</div>
                 </div>
                 <div class="flex gap-2">
-                    <div class="h-8 w-20 bg-gray-100 rounded"></div>
-                    <div class="h-8 w-20 bg-gray-100 rounded"></div>
+                    <div class="h-8 w-24 bg-orange-brand rounded text-white text-xs flex items-center justify-center font-bold">+ New Card</div>
                 </div>
             </div>
-            <!-- Content of Mock UI -->
-            <div class="flex-1 grid grid-cols-12 gap-6">
-                <div class="col-span-3 space-y-3">
-                    <div class="h-4 w-full bg-gray-100 rounded"></div>
-                    <div class="h-4 w-3/4 bg-gray-100 rounded"></div>
-                    <div class="h-4 w-5/6 bg-gray-100 rounded"></div>
-                </div>
-                <div class="col-span-9 bg-gray-50 rounded-lg p-4 grid grid-cols-2 gap-4">
-                     <div class="bg-white p-4 rounded shadow-sm h-32"></div>
-                     <div class="bg-white p-4 rounded shadow-sm h-32"></div>
-                     <div class="bg-white p-4 rounded shadow-sm h-32"></div>
-                     <div class="bg-white p-4 rounded shadow-sm h-32"></div>
-                </div>
+            <!-- Content of Mock UI - Thank You Cards Grid -->
+            <div class="flex-1 bg-gray-50 rounded-lg p-4 grid grid-cols-3 gap-4">
+                 <!-- Card 1 - Orange -->
+                 <div class="bg-gradient-to-br from-orange-100 to-orange-200 p-4 rounded-lg shadow-sm flex flex-col justify-between">
+                    <div class="text-2xl">🎉</div>
+                    <div class="text-xs font-bold mt-2">Great Job!</div>
+                    <div class="text-[8px] text-gray-600 mt-1">From Sarah</div>
+                 </div>
+                 <!-- Card 2 - Blue -->
+                 <div class="bg-gradient-to-br from-blue-100 to-blue-200 p-4 rounded-lg shadow-sm flex flex-col justify-between">
+                    <div class="text-2xl">⭐</div>
+                    <div class="text-xs font-bold mt-2">Thank You!</div>
+                    <div class="text-[8px] text-gray-600 mt-1">From Mike</div>
+                 </div>
+                 <!-- Card 3 - Purple -->
+                 <div class="bg-gradient-to-br from-purple-100 to-purple-200 p-4 rounded-lg shadow-sm flex flex-col justify-between">
+                    <div class="text-2xl">💪</div>
+                    <div class="text-xs font-bold mt-2">Amazing Work</div>
+                    <div class="text-[8px] text-gray-600 mt-1">From Team</div>
+                 </div>
+                 <!-- Card 4 - Green -->
+                 <div class="bg-gradient-to-br from-green-100 to-green-200 p-4 rounded-lg shadow-sm flex flex-col justify-between">
+                    <div class="text-2xl">🙌</div>
+                    <div class="text-xs font-bold mt-2">Well Done!</div>
+                    <div class="text-[8px] text-gray-600 mt-1">From Alex</div>
+                 </div>
+                 <!-- Card 5 - Pink -->
+                 <div class="bg-gradient-to-br from-pink-100 to-pink-200 p-4 rounded-lg shadow-sm flex flex-col justify-between">
+                    <div class="text-2xl">🚀</div>
+                    <div class="text-xs font-bold mt-2">You Rock!</div>
+                    <div class="text-[8px] text-gray-600 mt-1">From Lisa</div>
+                 </div>
+                 <!-- Card 6 - Yellow -->
+                 <div class="bg-gradient-to-br from-yellow-100 to-yellow-200 p-4 rounded-lg shadow-sm flex flex-col justify-between">
+                    <div class="text-2xl">✨</div>
+                    <div class="text-xs font-bold mt-2">Kudos!</div>
+                    <div class="text-[8px] text-gray-600 mt-1">From Chris</div>
+                 </div>
             </div>
         </div>
       </div>
       
       <!-- Decorative Elements -->
       <div class="absolute -left-12 bottom-12 w-24 h-24 bg-orange-brand rounded-full blur-2xl opacity-20"></div>
-      <div class="absolute -right-12 top-12 w-32 h-32 bg-purple-400 rounded-full blur-2xl opacity-20"></div>
-
-      <!-- Cartoon Character (Orange Blob) -->
-      <div class="absolute bottom-[-20px] left-[-40px] w-32 h-32 z-10 hidden md:block">
-          <svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M50 90C75 90 90 70 90 50C90 30 70 10 50 10C30 10 10 30 10 50C10 70 25 90 50 90Z" fill="#FF5D2A"/>
-            <circle cx="35" cy="40" r="5" fill="white"/>
-            <circle cx="65" cy="40" r="5" fill="white"/>
-            <path d="M35 60 Q50 70 65 60" stroke="white" stroke-width="3" stroke-linecap="round"/>
-            <!-- Arms -->
-            <path d="M10 50 Q-5 30 15 20" stroke="#FF5D2A" stroke-width="8" stroke-linecap="round"/>
-          </svg>
-      </div>
+      <div class="absolute -right-12 top-12 w-32 h-32 bg-primary-300 rounded-full blur-2xl opacity-20"></div>
     </div>
 
     <!-- Logos -->
     <div class="text-center">
-      <p class="text-sm text-gray-500 mb-6">Powering thousands of marketing teams at the fastest growing companies in tech</p>
+      <p class="text-sm text-gray-500 mb-6">Trusted by remote teams at innovative companies</p>
       <div class="flex flex-wrap justify-center items-center gap-8 md:gap-12 opacity-60 grayscale hover:grayscale-0 transition-all duration-500">
-        <!-- Linktree -->
-        <span class="font-bold text-xl flex items-center gap-2"><div class="w-5 h-5 bg-green-600 rounded-full"></div> Linktree</span>
-        <!-- Raycast -->
-        <span class="font-bold text-xl flex items-center gap-2"><div class="w-5 h-5 bg-red-500 rounded"></div> Raycast</span>
-        <!-- Gamma -->
-        <span class="font-bold text-xl flex items-center gap-2"><div class="w-5 h-5 bg-yellow-500 rounded-tr-xl"></div> Gamma</span>
-        <!-- Superhuman -->
-        <span class="font-bold text-xl flex items-center gap-2"><div class="w-5 h-5 bg-purple-600 rounded-full"></div> Superhuman</span>
-        <!-- Framer -->
-        <span class="font-bold text-xl flex items-center gap-2"><div class="w-5 h-5 bg-black rounded-tl-xl"></div> Framer</span>
-        <!-- Rippling -->
-        <span class="font-bold text-xl flex items-center gap-2"><div class="w-5 h-5 bg-yellow-400 rounded-full"></div> Rippling</span>
+        <!-- GitLab -->
+        <span class="font-bold text-xl flex items-center gap-2"><div class="w-5 h-5 bg-orange-600 rounded-full"></div> GitLab</span>
+        <!-- Zapier -->
+        <span class="font-bold text-xl flex items-center gap-2"><div class="w-5 h-5 bg-orange-500 rounded"></div> Zapier</span>
+        <!-- Notion -->
+        <span class="font-bold text-xl flex items-center gap-2"><div class="w-5 h-5 bg-black rounded"></div> Notion</span>
+        <!-- Automattic -->
+        <span class="font-bold text-xl flex items-center gap-2"><div class="w-5 h-5 bg-blue-600 rounded-full"></div> Automattic</span>
+        <!-- Buffer -->
+        <span class="font-bold text-xl flex items-center gap-2"><div class="w-5 h-5 bg-blue-500 rounded"></div> Buffer</span>
+        <!-- Doist -->
+        <span class="font-bold text-xl flex items-center gap-2"><div class="w-5 h-5 bg-red-500 rounded-full"></div> Doist</span>
       </div>
     </div>
   </section>
@@ -98,144 +112,145 @@
   <section class="py-20 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <h2 class="text-3xl md:text-5xl font-serif text-center mb-16 max-w-3xl mx-auto">
-        Get direct access to the top B2B creators in the world - on all platforms
+        Recognition that strengthens remote teams and builds culture
       </h2>
       
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16">
         <div class="bg-gray-50 p-8 rounded-2xl text-center">
-          <div class="text-4xl font-serif font-medium mb-2">300 Million</div>
-          <div class="text-xs font-bold text-gray-400 tracking-widest uppercase">Target Audience</div>
+          <div class="text-4xl font-serif font-medium mb-2">500K+</div>
+          <div class="text-xs font-bold text-gray-400 tracking-widest uppercase">Cards Sent</div>
         </div>
         <div class="bg-gray-50 p-8 rounded-2xl text-center">
-          <div class="text-4xl font-serif font-medium mb-2">2 Billion</div>
-          <div class="text-xs font-bold text-gray-400 tracking-widest uppercase">Monthly Impressions</div>
+          <div class="text-4xl font-serif font-medium mb-2">10 Seconds</div>
+          <div class="text-xs font-bold text-gray-400 tracking-widest uppercase">Average Time to Create</div>
         </div>
         <div class="bg-gray-50 p-8 rounded-2xl text-center">
-          <div class="text-4xl font-serif font-medium mb-2">60%</div>
-          <div class="text-xs font-bold text-gray-400 tracking-widest uppercase">Lower CPC than LinkedIn Ads*</div>
+          <div class="text-4xl font-serif font-medium mb-2">85%</div>
+          <div class="text-xs font-bold text-gray-400 tracking-widest uppercase">Team Engagement Increase</div>
         </div>
       </div>
 
-      <!-- Creator Cards Carousel Mockup -->
+      <!-- Card Templates Carousel -->
       <div class="flex gap-4 overflow-hidden relative">
         <div class="absolute inset-y-0 left-0 w-20 bg-gradient-to-r from-white to-transparent z-10"></div>
         <div class="absolute inset-y-0 right-0 w-20 bg-gradient-to-l from-white to-transparent z-10"></div>
         
         <div class="flex gap-4 animate-scroll">
-            <!-- Card 1 -->
-            <div class="w-64 h-80 bg-pink-100 rounded-2xl flex-shrink-0 relative overflow-hidden group">
-                <div class="absolute top-4 left-4 bg-white/90 backdrop-blur px-2 py-1 rounded-full text-xs font-bold flex items-center gap-1">
-                    <div class="w-2 h-2 bg-pink-500 rounded-full"></div> TikTok
+            <!-- Card 1 - Celebration -->
+            <div class="w-64 h-80 bg-gradient-to-br from-orange-200 to-orange-300 rounded-2xl flex-shrink-0 relative overflow-hidden group p-8 flex flex-col justify-between shadow-lg">
+                <div class="text-6xl">🎉</div>
+                <div>
+                    <div class="text-2xl font-serif font-bold mb-2">Great Job!</div>
+                    <div class="text-sm opacity-80">Your presentation was amazing</div>
                 </div>
-                <div class="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/60 to-transparent p-4 text-white">
-                    <div class="font-bold">Tech Daily</div>
-                    <div class="text-xs opacity-80">500k Followers</div>
-                </div>
+                <div class="text-xs opacity-60">Celebration Template</div>
             </div>
-            <!-- Card 2 -->
-            <div class="w-64 h-80 bg-orange-100 rounded-2xl flex-shrink-0 relative overflow-hidden group">
-                <div class="absolute top-4 left-4 bg-white/90 backdrop-blur px-2 py-1 rounded-full text-xs font-bold flex items-center gap-1">
-                    <div class="w-2 h-2 bg-orange-500 rounded-full"></div> Newsletter
+            <!-- Card 2 - Thank You -->
+            <div class="w-64 h-80 bg-gradient-to-br from-blue-200 to-blue-300 rounded-2xl flex-shrink-0 relative overflow-hidden group p-8 flex flex-col justify-between shadow-lg">
+                <div class="text-6xl">🙏</div>
+                <div>
+                    <div class="text-2xl font-serif font-bold mb-2">Thank You</div>
+                    <div class="text-sm opacity-80">For always being there</div>
                 </div>
-                <div class="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/60 to-transparent p-4 text-white">
-                    <div class="font-bold">The Hustle</div>
-                    <div class="text-xs opacity-80">2M Subscribers</div>
-                </div>
+                <div class="text-xs opacity-60">Gratitude Template</div>
             </div>
-            <!-- Card 3 -->
-            <div class="w-64 h-80 bg-red-100 rounded-2xl flex-shrink-0 relative overflow-hidden group">
-                <div class="absolute top-4 left-4 bg-white/90 backdrop-blur px-2 py-1 rounded-full text-xs font-bold flex items-center gap-1">
-                    <div class="w-2 h-2 bg-red-500 rounded-full"></div> YouTube
+            <!-- Card 3 - Achievement -->
+            <div class="w-64 h-80 bg-gradient-to-br from-purple-200 to-purple-300 rounded-2xl flex-shrink-0 relative overflow-hidden group p-8 flex flex-col justify-between shadow-lg">
+                <div class="text-6xl">🏆</div>
+                <div>
+                    <div class="text-2xl font-serif font-bold mb-2">Amazing Work</div>
+                    <div class="text-sm opacity-80">You crushed that deadline!</div>
                 </div>
-                <div class="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/60 to-transparent p-4 text-white">
-                    <div class="font-bold">MKBHD</div>
-                    <div class="text-xs opacity-80">18M Subscribers</div>
-                </div>
+                <div class="text-xs opacity-60">Achievement Template</div>
             </div>
-             <!-- Card 4 -->
-            <div class="w-64 h-80 bg-blue-100 rounded-2xl flex-shrink-0 relative overflow-hidden group">
-                <div class="absolute top-4 left-4 bg-white/90 backdrop-blur px-2 py-1 rounded-full text-xs font-bold flex items-center gap-1">
-                    <div class="w-2 h-2 bg-blue-500 rounded-full"></div> LinkedIn
+             <!-- Card 4 - Team Spirit -->
+            <div class="w-64 h-80 bg-gradient-to-br from-green-200 to-green-300 rounded-2xl flex-shrink-0 relative overflow-hidden group p-8 flex flex-col justify-between shadow-lg">
+                <div class="text-6xl">🤝</div>
+                <div>
+                    <div class="text-2xl font-serif font-bold mb-2">Team Player</div>
+                    <div class="text-sm opacity-80">Thanks for the collaboration</div>
                 </div>
-                <div class="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/60 to-transparent p-4 text-white">
-                    <div class="font-bold">Sahil Bloom</div>
-                    <div class="text-xs opacity-80">1M Followers</div>
-                </div>
+                <div class="text-xs opacity-60">Teamwork Template</div>
             </div>
-             <!-- Card 5 -->
-            <div class="w-64 h-80 bg-purple-100 rounded-2xl flex-shrink-0 relative overflow-hidden group">
-                <div class="absolute top-4 left-4 bg-white/90 backdrop-blur px-2 py-1 rounded-full text-xs font-bold flex items-center gap-1">
-                    <div class="w-2 h-2 bg-purple-500 rounded-full"></div> Podcast
+             <!-- Card 5 - Innovation -->
+            <div class="w-64 h-80 bg-gradient-to-br from-pink-200 to-pink-300 rounded-2xl flex-shrink-0 relative overflow-hidden group p-8 flex flex-col justify-between shadow-lg">
+                <div class="text-6xl">💡</div>
+                <div>
+                    <div class="text-2xl font-serif font-bold mb-2">Brilliant Idea</div>
+                    <div class="text-sm opacity-80">Your creativity inspires us</div>
                 </div>
-                <div class="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/60 to-transparent p-4 text-white">
-                    <div class="font-bold">My First Million</div>
-                    <div class="text-xs opacity-80">100k Downloads</div>
-                </div>
+                <div class="text-xs opacity-60">Innovation Template</div>
             </div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Disrupted Section -->
+  <!-- Problem/Solution Section -->
   <section class="bg-dark text-white py-24 overflow-hidden">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <h2 class="text-3xl md:text-5xl font-serif text-center mb-4">Traditional marketing is <br /> being disrupted</h2>
-      <p class="text-center text-gray-400 mb-16">We're entering a new era of personality-led growth.</p>
+      <h2 class="text-3xl md:text-5xl font-serif text-center mb-4">Remote work changed <br /> how we recognize teams</h2>
+      <p class="text-center text-gray-400 mb-16">Recognition shouldn't be harder just because we're distributed.</p>
 
       <div class="grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
-        <!-- The Old Way -->
+        <!-- The Problem -->
         <div>
-          <h3 class="text-xl font-serif mb-2">The Old Way</h3>
+          <h3 class="text-xl font-serif mb-2">The Problem</h3>
           <p class="text-gray-400 text-sm mb-8 leading-relaxed">
-            Marketers try to build their brand through paid search, outbound, and SEO - but the channels have become crowded and expensive.
+            Remote teams struggle with recognition fatigue. Generic Slack messages get lost, and meaningful appreciation takes too much time.
           </p>
           <div class="bg-gray-800/50 rounded-xl p-6 border border-gray-700 relative">
-             <div class="flex justify-between items-end h-40 gap-2">
-                <div class="w-full bg-red-500/20 rounded-t h-[40%] relative group"><div class="absolute -top-6 left-1/2 -translate-x-1/2 text-xs text-red-400">$20</div></div>
-                <div class="w-full bg-red-500/40 rounded-t h-[60%] relative group"><div class="absolute -top-6 left-1/2 -translate-x-1/2 text-xs text-red-400">$45</div></div>
-                <div class="w-full bg-red-500/60 rounded-t h-[80%] relative group"><div class="absolute -top-6 left-1/2 -translate-x-1/2 text-xs text-red-400">$80</div></div>
-                <div class="w-full bg-red-500/80 rounded-t h-[90%] relative group"><div class="absolute -top-6 left-1/2 -translate-x-1/2 text-xs text-red-400">$120</div></div>
-                <div class="w-full bg-red-500 rounded-t h-full relative group"><div class="absolute -top-6 left-1/2 -translate-x-1/2 text-xs text-red-400 font-bold">$150</div></div>
+             <div class="space-y-3">
+                <div class="flex items-start gap-3">
+                    <div class="text-2xl opacity-50">😕</div>
+                    <div class="flex-1">
+                        <div class="text-xs text-gray-400">Generic messages</div>
+                        <div class="text-sm text-gray-500 mt-1">"Good job everyone!"</div>
+                    </div>
+                </div>
+                <div class="flex items-start gap-3">
+                    <div class="text-2xl opacity-50">⏰</div>
+                    <div class="flex-1">
+                        <div class="text-xs text-gray-400">Time-consuming</div>
+                        <div class="text-sm text-gray-500 mt-1">15+ minutes to create something meaningful</div>
+                    </div>
+                </div>
+                <div class="flex items-start gap-3">
+                    <div class="text-2xl opacity-50">📱</div>
+                    <div class="flex-1">
+                        <div class="text-xs text-gray-400">Gets lost</div>
+                        <div class="text-sm text-gray-500 mt-1">Buried in chat history</div>
+                    </div>
+                </div>
              </div>
-             <div class="mt-4 flex justify-between text-xs text-gray-500">
-                <span>2014</span>
-                <span>2024</span>
-             </div>
-             <div class="absolute top-4 left-4 text-xs font-bold text-gray-300">CAC (Customer Acquisition Cost)</div>
           </div>
         </div>
 
-        <!-- The New Way -->
+        <!-- The Solution -->
         <div>
-          <h3 class="text-xl font-serif mb-2">The New Way</h3>
+          <h3 class="text-xl font-serif mb-2">The Kudobox Way</h3>
           <p class="text-gray-400 text-sm mb-8 leading-relaxed">
-            Hyper-scale your brand and top-of-funnel growth through trusted creator audiences. Cut through the noise and build quality inbound.
+            Create beautiful, shareable thank-you cards in seconds. Make recognition visual, instant, and memorable.
           </p>
           <div class="relative h-64 flex items-center justify-center">
-             <!-- Central Character -->
-             <div class="relative z-10 w-24 h-24">
-                <svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M50 90C75 90 90 70 90 50C90 30 70 10 50 10C30 10 10 30 10 50C10 70 25 90 50 90Z" fill="#FF5D2A"/>
-                    <circle cx="35" cy="40" r="5" fill="white"/>
-                    <circle cx="65" cy="40" r="5" fill="white"/>
-                    <path d="M35 60 Q50 70 65 60" stroke="white" stroke-width="3" stroke-linecap="round"/>
-                </svg>
+             <!-- Central Card Icon -->
+             <div class="relative z-10 bg-gradient-to-br from-orange-400 to-orange-600 w-32 h-40 rounded-xl shadow-2xl flex flex-col items-center justify-center p-4">
+                <div class="text-4xl mb-2">🎉</div>
+                <div class="text-white text-sm font-bold text-center">Thank You!</div>
+                <div class="text-white/70 text-xs mt-1">10 seconds</div>
              </div>
-             <!-- Orbiting Icons -->
-             <div class="absolute inset-0 animate-spin-slow">
-                <div class="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-4 w-10 h-10 bg-blue-500 rounded-full flex items-center justify-center text-white text-xs">Li</div>
-                <div class="absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-4 w-10 h-10 bg-pink-500 rounded-full flex items-center justify-center text-white text-xs">Ig</div>
-                <div class="absolute left-0 top-1/2 -translate-x-4 -translate-y-1/2 w-10 h-10 bg-red-500 rounded-full flex items-center justify-center text-white text-xs">Yt</div>
-                <div class="absolute right-0 top-1/2 translate-x-4 -translate-y-1/2 w-10 h-10 bg-black rounded-full flex items-center justify-center text-white text-xs">X</div>
+             <!-- Floating Elements -->
+             <div class="absolute top-8 left-8 bg-blue-500/20 backdrop-blur px-3 py-1 rounded-full text-xs text-blue-300 border border-blue-500/30">
+                Instant
              </div>
-             <!-- Megaphone Effect -->
-             <div class="absolute right-0 top-1/2 -translate-y-1/2 translate-x-20 opacity-50">
-                <svg width="100" height="100" viewBox="0 0 100 100" fill="none">
-                    <path d="M0 50 L100 20" stroke="#FF5D2A" stroke-width="2" stroke-dasharray="4 4"/>
-                    <path d="M0 50 L100 50" stroke="#FF5D2A" stroke-width="2" stroke-dasharray="4 4"/>
-                    <path d="M0 50 L100 80" stroke="#FF5D2A" stroke-width="2" stroke-dasharray="4 4"/>
-                </svg>
+             <div class="absolute bottom-8 left-12 bg-green-500/20 backdrop-blur px-3 py-1 rounded-full text-xs text-green-300 border border-green-500/30">
+                Visual
+             </div>
+             <div class="absolute top-12 right-8 bg-purple-500/20 backdrop-blur px-3 py-1 rounded-full text-xs text-purple-300 border border-purple-500/30">
+                Shareable
+             </div>
+             <div class="absolute bottom-12 right-12 bg-pink-500/20 backdrop-blur px-3 py-1 rounded-full text-xs text-pink-300 border border-pink-500/30">
+                Memorable
              </div>
           </div>
         </div>
@@ -243,11 +258,11 @@
     </div>
   </section>
 
-  <!-- Features Section 1 (Purple) -->
-  <section class="py-24 bg-cream">
+  <!-- Features Section 1 -->
+  <section class="py-24 bg-cream" id="features">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <h2 class="text-3xl md:text-5xl font-serif text-center mb-16 max-w-2xl mx-auto">
-        Find the best creators for your brand - fast.
+        Recognition made simple, meaningful, and instant
       </h2>
 
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
